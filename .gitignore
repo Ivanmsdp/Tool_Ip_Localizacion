@@ -1,11 +1,11 @@
-# Byte-compiled / optimized / DLL files
+# Archivos DLL / optimizados / compilados en bytes
 __pycache__/
 *.py[cod]
 
-# C extensions
+# C extensiones
 *.so
 
-# Distribution / packaging
+# Distribución / emsablaje
 .Python
 env/
 build/
@@ -23,17 +23,17 @@ var/
 .installed.cfg
 *.egg
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+# PyInstaller. 
+# Normalmente estos archivos se escriben mediante un script de Python a partir de una plantilla. 
+# antes de que PyInstaller construya el exe, para inyectarle la fecha/otra información.
 *.manifest
 *.spec
 
-# Installer logs
+# Registros del instalador
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Informes de cobertura/prueba unitaria
 htmlcov/
 .tox/
 .coverage
@@ -43,21 +43,20 @@ nosetests.xml
 coverage.xml
 *,cover
 
-# Translations
+# Traducción
 *.mo
 *.pot
 
-# Django stuff:
+#Cosas de Django: 
 *.log
 
-# Sphinx documentation
+# Documentación de la esfinge
 docs/_build/
 
 # PyBuilder
 target/
 
-# PyDev
-RemoteSystemsTempFiles
+# PyDev Archivos temporales de sistemas remotos
 .project
 .pydevproject
 .metadata
